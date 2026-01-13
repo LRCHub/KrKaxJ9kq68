@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "STIGMA",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-01-13T19:35:21.232574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stigma",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/01_Stigma_BTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suicide;Stigma",
+      "artist": "The Color Morale",
+      "has_synced": true,
+      "path": "select/02_Suicide;Stigma_The_Color_Morale.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stigma Diabolicum",
+      "artist": "Belphegor",
+      "has_synced": true,
+      "path": "select/03_Stigma_Diabolicum_Belphegor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stigma",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/04_Stigma_BTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Synchronized Stigma",
+      "artist": "Rave The Reqviem",
+      "has_synced": false,
+      "path": "select/05_Synchronized_Stigma_Rave_The_Reqviem.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Solid Stigma",
+      "artist": "Angerfist",
+      "has_synced": true,
+      "path": "select/06_Solid_Stigma_Angerfist.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stigma Diabolicum (Live)",
+      "artist": "Belphegor",
+      "has_synced": true,
+      "path": "select/07_Stigma_Diabolicum_(Live)_Belphegor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stigma of Divinity",
+      "artist": "Vader",
+      "has_synced": true,
+      "path": "select/08_Stigma_of_Divinity_Vader.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Stigma (Boys Don’t Cry)",
+      "artist": "As It Is",
+      "has_synced": true,
+      "path": "select/09_The_Stigma_(Boys_Don’t_Cry)_As_It_Is.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Stigma (Boys Don't Cry)",
+      "artist": "As It Is",
+      "has_synced": true,
+      "path": "select/10_The_Stigma_(Boys_Don't_Cry)_As_It_Is.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stigma Diabolicum - Live (Bonus Track)",
+      "artist": "Belphegor",
+      "has_synced": true,
+      "path": "select/11_Stigma_Diabolicum_-_Live_(Bonus_Track)_Belphegor.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Suicide;Stigma",
+      "artist": "The Color Morale feat. Dave Stephens, The Color Morale & Dave Stephens",
+      "has_synced": true,
+      "path": "select/12_Suicide;Stigma_The_Color_Morale_feat._Dave_Stephens,_The_Color_Morale_&_Dave_Stephens.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Suicide;Stigma (feat. Dave Stephens)",
+      "artist": "The Color Morale",
+      "has_synced": true,
+      "path": "select/13_Suicide;Stigma_(feat._Dave_Stephens)_The_Color_Morale.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stigma",
+      "artist": "Amarante",
+      "has_synced": true,
+      "path": "select/14_Stigma_Amarante.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "STIGMA",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/15_STIGMA_DUSTCELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STIGMA",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_STIGMA_DUSTCELL.txt"
+    }
+  ]
+}
